@@ -29,7 +29,7 @@ function MyCard(props) {
         <Card.Body>
           <Card.Text>
             I built this page with React and styled with ReactBootstrap. To view
-            the source code you may visit my github repo at{" "}
+            the source code you may visit my github repo at https://github.com/Gershwen/My-CV.
           </Card.Text>
         </Card.Body>
       </Card>
