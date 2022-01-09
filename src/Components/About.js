@@ -3,9 +3,9 @@ import React from "react";
 function About() {
   return (
     <div>
-    <div className="heading-container">
-    <i class="fas fa-user fa-2x"></i>
-      <h2 className="main-headings">about</h2>
+      <div className="heading-container">
+        <i class="fas fa-user fa-2x"></i>
+        <h2 className="main-headings">about</h2>
       </div>
       <hr />
       <p>

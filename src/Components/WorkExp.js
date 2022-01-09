@@ -13,9 +13,9 @@ function WorkExp(props) {
 
   return (
     <div>
-    <div className="heading-container">
-    <i class="far fa-building fa-2x"></i>
-      <h2 className="main-headings">work experience</h2>
+      <div className="heading-container">
+        <i class="far fa-building fa-2x"></i>
+        <h2 className="main-headings">work experience</h2>
       </div>
       <ListGroup variant="flush">{listWorkExp}</ListGroup>
     </div>
